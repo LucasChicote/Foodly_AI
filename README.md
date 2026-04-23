@@ -23,7 +23,7 @@ Chatbot desenvolvido com Spring Boot + Spring AI + Vaadin, integrado à API da O
 Abra o arquivo `src/main/resources/application.properties` e substitua pelo valor da sua chave:
 
 ```
-spring.ai.openai.api-key=sk-proj-...sua chave aqui...
+spring.ai.openai.api-key=sua chave aqui
 ```
 
 **3. Rodar o projeto**
